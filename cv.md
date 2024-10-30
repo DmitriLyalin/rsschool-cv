@@ -1,12 +1,14 @@
 #  rsschool-cv
- # Dmitry Lyalin
+# Dmitry Lyalin
 ## Student in RSS school 
+
 
 ### My Contacts:
 * Phone: +7-929-043-19-93
 * Mail: [lialin.dmitry@gmail.com](mailto:lialin.dmitry@gmail.com)
 * Telegram: [@DNlyalin](https://t.me/DNlyalin)
 * GitHub: [DmitriLyalin](https://github.com/DmitriLyalin)
+
   
 ### Summary:
 Motivated and detail-oriented beginner Front-end Developer, currently studying at RSS School. Passionate about continuous learning, I am excited to collaborate with teams that prioritize creativity and user experience.
@@ -34,10 +36,10 @@ document.querySelector('.stop').addEventListener('click', function (){
 })
   ```
 ### Education:
->  Linguistics University of Nizhny Novgorod (LUNN). Graduate in International Relations
-> [ ] RS School. JavaScript/Front-end Development Course. Stage#1 (currently enrolled)
+> - Linguistics University of Nizhny Novgorod (LUNN). Graduate in International Relations
+> - [ ] RS School. JavaScript/Front-end Development Course. Stage#1 (currently enrolled)
 
 ### Languages:
-**Russian** - *native speaker*
-**English** - *B2*
-**French** - *A2*
+* **Russian** - *native speaker*
+* **English** - *B2*
+* **French** - *A2*
