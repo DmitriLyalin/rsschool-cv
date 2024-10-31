@@ -37,7 +37,7 @@ document.querySelector('.stop').addEventListener('click', function (){
   ```
 ### Education:
 > - Linguistics University of Nizhny Novgorod (LUNN). Graduate in International Relations
-> - [ ] RS School. JavaScript/Front-end Development Course. Stage#1 (currently enrolled)
+> -  RS School. JavaScript/Front-end Development Course. Stage#1 (currently enrolled)
 
 ### Languages:
 * **Russian** - *native speaker*
